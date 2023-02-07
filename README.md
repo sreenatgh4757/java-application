@@ -28,11 +28,11 @@ Repository Name: web-application
  <distributionManagement>
       <snapshotRepository>
         <id>jfrog-snapshots</id>
-        <url>https://devopsbymurali.jfrog.io/artifactory/web-application/</url>
+        <url>https://sreenathdevops.jfrog.io/artifactory/web-application/</url>
       </snapshotRepository>
       <repository>
         <id>jfrog-releases</id>
-        <url>https://devopsbymurali.jfrog.io/artifactory/web-application/</url>
+        <url>https://sreenathdevops.jfrog.io/artifactory/web-application/</url>
       </repository>
     </distributionManagement>
 ```
